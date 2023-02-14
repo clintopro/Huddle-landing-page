@@ -62,9 +62,9 @@ i would like to focus more on flexbox
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/clintopro)
+- Frontend Mentor - [@clintopro](https://www.frontendmentor.io/profile/clintopro)
 - Twitter - [@clintopro1](https://www.twitter.com/clintopro1)
 
 
 ## Acknowledgments
-I would like to thank my bosses, Charleslogan and Devgranty for their motivation
+I would like to thank my bosses, @Charleslogan and @Devgranty for their motivation
